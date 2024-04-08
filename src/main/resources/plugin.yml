@@ -1,0 +1,10 @@
+name: Protector
+version: '${project.version}'
+main: com.arctic.Protector
+api-version: '1.20'
+
+commands:
+  protector:
+    description: Reload protector config file
+    permission: protector.reload
+    permission-message: You can not use that command!
