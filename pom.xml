@@ -38,7 +38,7 @@
               <goal>shade</goal>
             </goals>
               <configuration>
-                  <outputFile>C:/Users/PC/Desktop/Plugins/Protector/Protector.jar</outputFile>
+                  <outputFile>/Protector.jar</outputFile>
               </configuration>
           </execution>
         </executions>
